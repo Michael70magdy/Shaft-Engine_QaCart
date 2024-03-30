@@ -1,0 +1,22 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '3 out of 6' test cases in the current suite                                        
+                                                   Test Method: 'Tests.QAcart_Project.Windows'                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:50.0242 PM
+[ReportManager] Click "Windows". @30-03-2024 15:04:50.0553 PM
+[ReportManager] Get window handle "319ACF5E9FE00862A68280FFB2174A1F". @30-03-2024 15:04:50.0607 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:50.0822 PM
+[ReportManager] Click "Youtube". @30-03-2024 15:04:51.0132 PM
+[ReportManager] Switch to window "319ACF5E9FE00862A68280FFB2174A1F". @30-03-2024 15:04:51.0188 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:51.0423 PM
+[ReportManager] Click "Official Website". @30-03-2024 15:04:51.0549 PM
+[ReportManager] Switch to window "319ACF5E9FE00862A68280FFB2174A1F". @30-03-2024 15:04:51.0697 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:51.0935 PM
+[ReportManager] Click "LinkedIn". @30-03-2024 15:04:52.0105 PM
+[ReportManager] Switch to window "319ACF5E9FE00862A68280FFB2174A1F". @30-03-2024 15:04:52.0335 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:52.0552 PM
+[ReportManager] Click "Facebook". @30-03-2024 15:04:52.0661 PM
+[ReportManager] Switch to window "319ACF5E9FE00862A68280FFB2174A1F". @30-03-2024 15:04:52.0800 PM
+[ReportManager] Perform navigation action "Navigate BACK to https://hatem-hatamleh.github.io/Selenium-html/". @30-03-2024 15:04:53.0053 PM

@@ -1,0 +1,26 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '6 out of 6' test cases in the current suite                                        
+                                                   Test Method: 'Tests.QAcart_Project.Frames'                                                   
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:05:07.0544 PM
+[ReportManager] Click "Frames". @30-03-2024 15:05:08.0442 PM
+[ReportManager] Switch to iframe "By.name: qacart" against "qacart". @30-03-2024 15:05:08.0584 PM
+[ReportManager] Text cleared Using Native Clear @30-03-2024 15:05:08.0832 PM
+[ReportManager] Type "Michael" into "First Name". @30-03-2024 15:05:09.0142 PM
+[ReportManager] Text cleared Using Native Clear @30-03-2024 15:05:09.0405 PM
+[ReportManager] Type "Magdy" into "Last Name". @30-03-2024 15:05:09.0580 PM
+[ReportManager] Select "Junior" from "By.name: level". @30-03-2024 15:05:10.0195 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:05:10.0460 PM
+[ReportManager] Click "Web". @30-03-2024 15:05:10.0773 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:05:11.0271 PM
+[ReportManager] Click "Click me". @30-03-2024 15:05:11.0550 PM
+[ReportManager] Alert is present @30-03-2024 15:05:11.0566 PM
+[ReportManager] Alert is present @30-03-2024 15:05:11.0571 PM
+[ReportManager] Accept alert. @30-03-2024 15:05:11.0582 PM
+[ReportManager] Switch to default content. @30-03-2024 15:05:11.0611 PM
+[ReportManager] Switch to iframe "By.name: menu" against "By.name: menu". @30-03-2024 15:05:11.0726 PM
+[ReportManager] Switch to iframe "By.name: links" against "qacart". @30-03-2024 15:05:11.0885 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:05:12.0193 PM
+[ReportManager] Click "Locators". @30-03-2024 15:05:12.0654 PM

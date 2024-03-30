@@ -1,0 +1,25 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 6' test cases in the current suite                                        
+                                                  Test Method: 'Tests.QAcart_Project.Locators'                                                  
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:43.0776 PM
+[ReportManager] Click "Locators". @30-03-2024 15:04:44.0044 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:44.0308 PM
+[ReportManager] Click "By.id: selenium". @30-03-2024 15:04:44.0377 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:44.0591 PM
+[ReportManager] Click "By.name: appium". @30-03-2024 15:04:44.0700 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:44.0918 PM
+[ReportManager] Click "By.cssSelector: [data-testid=cypress]". @30-03-2024 15:04:45.0032 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:45.0402 PM
+[ReportManager] Click "By.id: wdio". @30-03-2024 15:04:45.0523 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:45.0867 PM
+[ReportManager] Click "By.name: playwright". @30-03-2024 15:04:46.0000 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:46.0280 PM
+[ReportManager] Click "By.cssSelector: [data-testid=rest]". @30-03-2024 15:04:46.0323 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:46.0529 PM
+[ReportManager] Click "By.id: postman". @30-03-2024 15:04:46.0581 PM
+[ReportManager] Moved the mouse to the middle of the element. @30-03-2024 15:04:46.0794 PM
+[ReportManager] Click "By.name: detox". @30-03-2024 15:04:46.0841 PM
+[ReportManager] Perform navigation action "Navigate BACK to https://hatem-hatamleh.github.io/Selenium-html/". @30-03-2024 15:04:46.0985 PM
